@@ -1,7 +1,6 @@
 {
-  "name": "wot-semdesc-helper",
+  "name": "react-audio-player",
   "version": "1.0.0",
-  "description": "Semi-automatic generation of semantic description for sensing devices",
   "main": "Gruntfile.js",
   "scripts": {
     "build": "grunt build",
@@ -10,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiotproject/wot-semdesc-helper.git"
+    "url": "https://github.com/soylent-grin/react-audio-player.git"
   },
-  "author": "SemIoT Project",
+  "author": "soylent-grin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/semiotproject/wot-semdesc-helper/issues"
+    "url": "https://github.com/soylent-grin/react-audio-player/issues"
   },
-  "homepage": "https://github.com/semiotproject/wot-semdesc-helper",
+  "homepage": "https://github.com/soylent-grin/react-audio-player",
   "devDependencies": {
     "babelify": "^6.1.2",
     "grunt": "^0.4.5",
